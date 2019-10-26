@@ -78,5 +78,6 @@ I learn how to maintain a repository where people contribute, a win-win status f
 
 Happy Coding. Hope you all get your cool swags :) 
 -------
-<8>. Thank you for joining me in github.This is a good platform to do something better changes in programms of other:
---------
+<8>. Thank you for joining me in github.This is a good platform to do something better changes in programms of others and also gain knowledge from others........
+HAPPY DIPAWALI*********
+---------------
