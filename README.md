@@ -1,18 +1,18 @@
 
-# Let's Celebrate the Open Source Festival of Hacktober by making a contribution in the simplest way possible.
+<1>. Let's Celebrate the Open Source Festival of Hacktober by making a contribution in the simplest way possible.
 
 Let's make a simple contribution to this repository and increase your chances of winning awesome cool swags from Hacktober Fest.
 
 Let me show you how easy it is:
 
-## 1. Fork this repository
+#. Fork this repository
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
 
 ------
 
-## 2. Clone the repository
+<2>. Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the clone button and then click the *copy to clipboard* icon.  
 Now let's bring the cloned repository to your local machine.  
@@ -22,14 +22,14 @@ For example:
 
 ------
 
-## 3. Move inside the repository 
+<3>. Move inside the repository 
 Since you want to change the files inside, first let's move to the folder correctly. Use the following command on terminal:  
 ``` cd Hacktoberfest-2019-celebration ```
 
 ------
 
 
-## 4. Make a new branch 
+<4>. Make a new branch 
 Since now you're about to make your personal changes to the project, it's always a better idea to make a new branch. Run the following command:  
 
 ``` git checkout -b <feat-add-yourname> ```  
@@ -38,13 +38,13 @@ For example:
 
 -----
 
-## 5. Make the required changes
+<5>. Make the required changes
 Check out the [CONTRIBUTING.md](/CONTRIBUTING.md) file to see what all contributions can you make. 
 
 
 ----
 
-## 6. Commit all your changes
+<6>. Commit all your changes
 It's finally that time when you commit your changes and leave a beautiful commit message behind. You can run the following commands:
 
 ``` git add . ```    
@@ -61,7 +61,7 @@ For example:
 
 -----
 
-## 7. Hit me a pull request
+<7>. Hit me a pull request
 
 If you go to your repository on GitHub, you'll see a Compare & pull request button. Click on that button.
 Now submit the pull request. Leave a custom message if you want.
@@ -77,3 +77,6 @@ You get your PR's done and contribute to a cool repository by sharing your stori
 I learn how to maintain a repository where people contribute, a win-win status for all.
 
 Happy Coding. Hope you all get your cool swags :) 
+-------
+<8>. Thank you for joining me in github.This is a good platform to do something better changes in programms of other:
+--------
